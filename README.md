@@ -1,6 +1,6 @@
 # CENG 355 Senz Car
 
-The purpose of this project is to build a telemetry system for a Baja racing vehicle. There are three sensors involved in this project which include a PCF8591, BME280 and AMG8833. This is a collaborative project that involves up to 3 members who each contributed to at least one sensor and the overall dynamics of this project. WE put together a [Budget Plan](https://github.com/KogulB/CENG355Project/blob/master/documentation/Budget.xlsx) and a project Schedule to help us utilize a project in a successful manner.
+The purpose of this project is to build a telemetry system for a Baja racing vehicle. There are three sensors involved in this project which include a PCF8591, BME280 and AMG8833. This is a collaborative project that involves up to 3 members who each contributed to at least one sensor and the overall dynamics of this project. WE put together a [Budget Plan](https://github.com/KogulB/CENG355Project/blob/master/documentation/Budget.xlsx) and a project [schedule](https://github.com/KogulB/CENG355Project/blob/master/documentation/Schedule.mpp) to help us utilize a project in a successful manner.
 ![PiEnclousre](https://raw.githubusercontent.com/KogulB/KogulBCENG317Project/master/Images/PiEnclosure.jpg)
 
 ## Introduction - System Diagram
