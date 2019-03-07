@@ -1,0 +1,31 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Telemetry Main Board 3.0
+*Date=17:58:10
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;16.4495;-2.9371;0;Bottom;Via14
+2;;;8.82952;-28.3371;0;Bottom;Via6
+3;;;8.82952;-8.0171;0;Bottom;Via12
+4;;;8.82952;-18.1771;0;Bottom;Via9
+5;;;16.4495;-13.0971;0;Bottom;Via11
+6;;molex-1x4_lock;4.13052;-27.0671;90;Bottom;JP1
+7;;;11.3695;-15.6371;0;Bottom;Via10
+8;;;11.3695;-5.4771;0;Bottom;Via13
+9;;molex-1x4_lock;4.13052;-16.9071;90;Bottom;JP2
+10;;molex-1x4_lock;4.13052;-6.7471;90;Bottom;JP3
+11;;;26.6095;-10.5571;0;Bottom;Via17
+12;;;11.3695;-25.7971;0;Bottom;Via7
+13;;;16.4495;-23.2571;0;Bottom;Via8
+14;;;6.28952;-30.8771;0;Bottom;Via16
+15;;;40.4112;-17.426;0;Bottom;Raspberry Pi 1
+16;;;6.28952;-20.7171;0;Bottom;Via15
