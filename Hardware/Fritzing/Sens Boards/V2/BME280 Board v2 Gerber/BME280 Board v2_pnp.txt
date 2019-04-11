@@ -1,0 +1,23 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=BME280 Board v2
+*Date=23:19:59
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;20.9325;-15.2533;-90;Bottom;Part3
+2;;;32.9974;-7.63332;0;Bottom;Via9
+3;;;40.6174;-17.7933;0;Bottom;Via7
+4;;molex-1x4_lock;47.8565;-13.9833;-90;Bottom;JP3
+5;;;50.7774;-25.4133;0;Bottom;Hole4
+6;;;50.7774;-2.55333;0;Bottom;Hole3
+7;;;2.51744;-25.4133;0;Bottom;Hole1
+8;;;2.51744;-2.55333;0;Bottom;Hole2
