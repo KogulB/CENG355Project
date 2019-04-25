@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SenzCar</string>
+    <string name="welcome">Welcome to SenzCar</string>
+    <string name="loginwelcome">Please Login to Access your Info</string>
+    <string name="email">Email: </string>
+    <string name="password">Password: </string>
+    <string name="login">Login</string>
+    <string name="register">Register Account</string>
+    <string name="Register">Register </string>
+    <string name="Name">Full Name: </string>
+    <string name="reEnter">Re-Enter Password</string>
+    <string name="specialCode">Enter Registration Code</string>
+    <string name="data">Data</string>
+    <string name="light">Light </string>
+    <string name="pressure">AirIntakePressure</string>
+    <string name="delete">Delete Account</string>
+    <string name="passwordForgot">Forgot Password</string>
+    <string name="value">Value </string>
+    <string name="logout">Log Out </string>
+    <string name="Heat">EngineTemp</string>
+    <string name="conversion">fahrenheit</string>
+    <string name="pressureMeas">HPA</string>
+    <string name="emailEnter">Enter your email</string>
+    <string name="forgotPass">Change Password</string>
+    <string name="create">Created By: </string>
+    <string name="team">Team Diversity</string>
+    <string name="Info">About Us</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>

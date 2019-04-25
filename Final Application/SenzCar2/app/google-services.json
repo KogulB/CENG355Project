@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "112377149397",
+    "firebase_url": "https://senzcar2.firebaseio.com",
+    "project_id": "senzcar2",
+    "storage_bucket": "senzcar2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112377149397:android:29bb6bdb546882e6",
+        "android_client_info": {
+          "package_name": "team.diversity.senzcar2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112377149397-m193mvh9ocf4org6ed4eb03ki32t4r90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "team.diversity.senzcar2",
+            "certificate_hash": "d3a5082494e3847b362cefbba94424e683e92466"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCode3F4f4oaD2g08PHTBrfgGDxGJmixXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112377149397-sal2v9332c7dobjhc4pbq14tn2a520rr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
