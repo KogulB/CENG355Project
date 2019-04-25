@@ -1,0 +1,25 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=AMG8833 Board v2
+*Date=23:19:03
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;50.8118;-2.57026;0;Bottom;Hole3
+2;;;38.1118;-7.65025;0;Bottom;Via8
+3;;;2.55176;-2.57026;0;Bottom;Hole4
+4;;;50.8118;-25.4302;0;Bottom;Hole1
+5;;;2.55176;-25.4302;0;Bottom;Hole2
+6;;;43.1918;-17.8102;0;Bottom;Via6
+7;;;22.8719;-14.0002;-90;Bottom;Part2
+8;;molex-1x4_lock;47.8909;-14.0002;-90;Bottom;JP2
+9;;;38.1118;-12.7302;0;Bottom;Via7
+10;;;38.1118;-17.8102;0;Bottom;Via9
